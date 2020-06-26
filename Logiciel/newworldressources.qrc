@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>boulangerie.jpg</file>
+        <file>charcuterie.png</file>
+        <file>fromagerie.png</file>
+        <file>action-unavailable-symbolic.symbolic.png</file>
+        <file>checkbox-checked-symbolic.symbolic.png</file>
+        <file>dialog-error-symbolic.symbolic.png</file>
+        <file>dialog-password-symbolic.symbolic.png</file>
+        <file>document-edit-symbolic.symbolic.png</file>
+        <file>folder-drag-accept-symbolic.symbolic.png</file>
+        <file>edit-redo-symbolic.symbolic.png</file>
+        <file>edit-redo-symbolic-rtl.symbolic.png</file>
+        <file>edit-find-symbolic.symbolic.png</file>
+        <file>document-new-symbolic.symbolic.png</file>
+    </qresource>
+    <qresource prefix="/traductions">
+        <file>newWorld_fr.qm</file>
+    </qresource>
+</RCC>
